@@ -1,2 +1,2 @@
-A place for me to store all MATLAB work I have done
+A place for me to store all of the MATLAB work that I have done.
 
